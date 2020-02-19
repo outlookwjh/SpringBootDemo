@@ -1,0 +1,11 @@
+right: cup
+
+pp:
+  ps:
+    n: www
+    a: 23
+
+guns:
+  yourgun:
+    - gun1
+    - gun2

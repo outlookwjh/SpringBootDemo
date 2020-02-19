@@ -1,0 +1,23 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /springboot
+
+
+
+# 定义普通
+key: value
+#定义对象
+person:
+  name: wjh
+  age: 23
+
+pepole:
+  - wjh
+  - liulili
+  - wby
+pepoles:
+  pepole:
+    - wjh
+    - liulili
+    - wby
